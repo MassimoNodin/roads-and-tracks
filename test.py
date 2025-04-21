@@ -1,5 +1,5 @@
 import unittest
-from assignment1 import CityMap
+from roads_and_tracks import CityMap
 
 class TestCityMap(unittest.TestCase):
     
